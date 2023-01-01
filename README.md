@@ -1,5 +1,7 @@
 # ImageToGreyscaleText
 
+**A note on PIL:** Since PIL is an older package, you have to install pillow, and PIL will be packaged within that. (`pip3 install pillow`) You don't need to change any of the code though. `import PIL` should run just fine after you have install the `pillow` package.
+
 ### A Quick Description
 
 The main.py file converts inputimage image files into outputimage html files that show the input image in repeated greyscale letters.
