@@ -2,14 +2,16 @@
 
 ### Transformation example
 
-Original:
+<img src="https://github.com/MarwariTheHorse/ImageToGreyscaleText/blob/master/readme-images/landscape.jpg?raw=true" width="400"/>
 
-![alt text](https://imgur.com/a/P9CJOmL.jpg)
+will convert to
 
-Output:
+<img src="https://github.com/MarwariTheHorse/ImageToGreyscaleText/blob/master/readme-images/screenshot.png?raw=true" width="400"/>
+
+using these inputs (and the files in this repo's readme-images folder
 
 
-This is just a simple little program I threw together for fun awhile back.
+
 
 ### Inputs
 
