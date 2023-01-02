@@ -26,7 +26,7 @@ img = Image.open(inputfilelocation).convert('L')  # Convert the image to black a
 WIDTH, HEIGHT = img.size  # Get the image dimensions
 # get requested character dimesions
 charwidth = math.floor(WIDTH * float(input("What percent of the photo is 1 character width-wise? ")))
-charheight = math.floor(charwidth * 2.3)
+charheight = math.floor(charwidth * 1.64)
 
 # Convert data to a list of ints
 data = list(img.getdata())
